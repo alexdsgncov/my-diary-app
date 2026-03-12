@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "My Diary",
+    "slug": "my-diary",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mydiary.app"
+    },
+    "android": {
+      "package": "com.mydiary.app",
+      "predictiveBackGestureEnabled": false
+    }
+  }
+}
